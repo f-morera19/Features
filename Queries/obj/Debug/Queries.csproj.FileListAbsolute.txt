@@ -1,0 +1,7 @@
+C:\Users\FF_Fabian\source\repos\Features\Queries\bin\Debug\Queries.exe.config
+C:\Users\FF_Fabian\source\repos\Features\Queries\bin\Debug\Queries.exe
+C:\Users\FF_Fabian\source\repos\Features\Queries\bin\Debug\Queries.pdb
+C:\Users\FF_Fabian\source\repos\Features\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+C:\Users\FF_Fabian\source\repos\Features\Queries\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\FF_Fabian\source\repos\Features\Queries\obj\Debug\Queries.exe
+C:\Users\FF_Fabian\source\repos\Features\Queries\obj\Debug\Queries.pdb
